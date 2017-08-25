@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuickLZNative</id>
+    <version>1.5.0-beta-20110108-1</version>
+    <authors>QuickLZ</authors>
+    <owners>QuickLZ</owners>
+    <licenseUrl>http://www.quicklz.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>QuickLZ is the world's fastest compression library. This package includes only its native libraries</description>
+    <tags>quicklz</tags>
+  </metadata>
+</package>
